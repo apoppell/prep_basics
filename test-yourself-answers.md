@@ -646,8 +646,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
 #### Schema
+Schema refers to the organization of data as a structure of how the database is constructed.
 
-*Your explanation here!*
+*Contributed by [Alex Poppell](https://github.com/apoppell)*
 
 #### Script
 
@@ -775,7 +776,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote
+
+*Contributed by [Alex Poppell](https://github.com/apoppell)*
 
 #### How do you check the status of your current repo in git?
 
